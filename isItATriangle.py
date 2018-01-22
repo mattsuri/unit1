@@ -11,9 +11,9 @@ leg1 = min(sideA, sideB, sideC)
 
 
 perimeter = sideA + sideB + sideC
-leg2 = perimeter - hpy - leg1
+leg2 = perimeter - hyp - leg1
 
-print(leg1 + leg2 > hpy)
+print(leg1 + leg2 > hyp)
 
 
 
