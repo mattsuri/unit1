@@ -1,3 +1,3 @@
 #Matthew Suriawinata
 #1/24/18
-#binaryBackwards.py - 
+#binaryBackwards.py - base number to binary number
